@@ -1,0 +1,5 @@
+
+
+ body {background-image: linear-gradient(to top,#589A8D,#265C4B ); height: 100%;}
+.W {background-color: white; width: 300px; height: 300px; border: 50px ; border-color: bisque; display: flex; justify-content: center; align-items: center;}
+  .WW {display: flex; justify-content: center; align-items: center; }

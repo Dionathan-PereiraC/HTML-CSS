@@ -1,0 +1,17 @@
+ body { background-color: black;}
+
+ 
+   
+ .s{
+    
+    background-color: blueviolet;
+height: 400px;
+width: 400px;
+border: 50px solid beige;
+padding: 10px ;
+margin: 10px auto;
+outline: 20px dashed blue;
+
+ }
+    
+    p { display: inline; color: aliceblue;}
