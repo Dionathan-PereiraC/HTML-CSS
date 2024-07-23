@@ -1,0 +1,18 @@
+.quadrado { 
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    display:inline-block ;
+    border-radius: 10px;
+
+}
+
+body  { background-image: linear-gradient( to top, pink , purple ); margin-bottom: 1000px ;}
+
+div#q1 {  background-image: url( 'pattern003.png' ); }
+
+div#q2 { background-image: linear-gradient(to top, blue, yellow);}
+
+div#q3 { background-image: linear-gradient(to top, purple, pink );}
+
+ h1 { font-variant: small-caps; margin: 0px 43px; font-size: large;}
