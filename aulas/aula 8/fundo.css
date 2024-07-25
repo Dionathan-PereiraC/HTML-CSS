@@ -1,18 +1,27 @@
-.quadrado { 
-    border: 1px solid black;
-    width: 300px;
-    height: 300px;
-    display:inline-block ;
-    border-radius: 10px;
 
+
+body {
+    height: 98vh;
+   background-image: linear-gradient(to top, purple, pink );
 }
 
-body  { background-image: linear-gradient( to top, pink , purple ); margin-bottom: 1000px ;}
 
-div#q1 {  background-image: url( 'pattern003.png' ); }
+.bloco { 
+ display:inline-block ;
+    height: 300px ;
+    width: 300px;
+    border: 1px solid black ;
+    border-radius: 20px;
+    margin: 0px 10px;
+    background-image: url(https://sneakerbardetroit.com/wp-content/uploads/2020/12/Nike-Kobe-6-Protro-Grinch-CW2190-300-Release-Date-Price-4-1068x694.jpg); 
+    background-size: 100px;
+    background-repeat: no-repeat;
+    
+}
 
-div#q2 { background-image: linear-gradient(to top, blue, yellow);}
-
-div#q3 { background-image: linear-gradient(to top, purple, pink );}
-
- h1 { font-variant: small-caps; margin: 0px 43px; font-size: large;}
+div#q1 { background-position: left top;}
+div#q2 { background-position: right top;}
+div#q3 { background-position:  left center;}
+div#q4 { background-position:  right center;}
+div#q5 { background-position:  left bottom;}
+div#q6 { background-position:  right bottom;}
